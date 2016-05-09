@@ -1,0 +1,1 @@
+ClickerDB = new Meteor.Collection('clicks');
